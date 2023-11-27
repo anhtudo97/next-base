@@ -1,0 +1,6 @@
+{
+    "update_rule": "Updated every 10 minutes, lastest updated: {{date}} (UTC).",
+    "status": "Status",
+    "email": "Email",
+    "amount": "Amount"
+}
